@@ -1,0 +1,31 @@
+/* Inherit the base Midnight theme */
+@import url("https://app.standardnotes.com/assets/themes/midnight.css");
+
+/* 
+ * Midnight Colored Headings Override 
+ * Using vibrant pastels for high contrast against the dark background 
+ */
+
+#editor h1, .ProseMirror h1, h1, .sn-heading-1 {
+  color: #ff7b72 !important; /* Light Red */
+}
+
+#editor h2, .ProseMirror h2, h2, .sn-heading-2 {
+  color: #ffa657 !important; /* Orange */
+}
+
+#editor h3, .ProseMirror h3, h3, .sn-heading-3 {
+  color: #d2a8ff !important; /* Purple */
+}
+
+#editor h4, .ProseMirror h4, h4, .sn-heading-4 {
+  color: #79c0ff !important; /* Blue */
+}
+
+#editor h5, .ProseMirror h5, h5, .sn-heading-5 {
+  color: #8ddb8c !important; /* Green */
+}
+
+#editor h6, .ProseMirror h6, h6, .sn-heading-6 {
+  color: #f0f6fc !important; /* Off-White */
+}

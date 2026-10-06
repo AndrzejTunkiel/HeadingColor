@@ -1,0 +1,9 @@
+{
+  "identifier": "org.custom.midnight-colored-headings",
+  "name": "Midnight (Colored Headings)",
+  "description": "The standard Midnight theme with distinct colors for H1-H6.",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "url": "https://YOUR_HOSTED_URL/main.css"
+}
